@@ -1,0 +1,2 @@
+# candy
+my first repository
